@@ -16,7 +16,7 @@
      *          in="path"
      *      ),
      *      @SWG\Response(
-     *          response=200,
+     *          response=204,
      *          description="successful operation",
      *          @SWG\Schema(
      *              type="object",

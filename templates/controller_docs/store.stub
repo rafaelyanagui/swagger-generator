@@ -16,7 +16,7 @@
      *          @SWG\Schema(ref="#/definitions/$MODEL_NAME$")
      *      ),
      *      @SWG\Response(
-     *          response=200,
+     *          response=201,
      *          description="successful operation",
      *          @SWG\Schema(
      *              type="object",
